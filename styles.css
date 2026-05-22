@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+
+
+main {
+  padding: 10px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  color:blue;
+}
